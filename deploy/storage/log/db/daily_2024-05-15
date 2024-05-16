@@ -1,0 +1,226 @@
+[2024-05-15 17:36:21.896] [info] [Main.cpp:146] Test Server
+[2024-05-15 17:36:21.896] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 17:36:21.896] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:23.977] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 17:36:23.978] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:36:28.978] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:28.978] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 17:36:28.978] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:36:33.978] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:33.986] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:36:33.987] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:36:38.987] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:38.987] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:36:38.987] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:36:43.988] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:43.988] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:36:43.988] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:36:48.988] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:48.989] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:36:48.989] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:36:53.989] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:53.990] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:36:53.990] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:36:58.990] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:36:58.991] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:36:58.991] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:37:03.991] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:03.992] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:37:03.992] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:37:08.992] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:08.994] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:37:08.994] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:37:13.994] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:13.995] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:37:13.995] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:37:18.995] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:18.996] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:37:18.996] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:37:23.997] [info] [Main.cpp:292] Success ACCOUNT
+[2024-05-15 17:37:23.997] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:23.998] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'common'
+[2024-05-15 17:37:23.998] [error] [Main.cpp:316]    failed, retrying in 5 seconds
+[2024-05-15 17:37:28.998] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:28.999] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'common'
+[2024-05-15 17:37:28.999] [error] [Main.cpp:316]    failed, retrying in 5 seconds
+[2024-05-15 17:37:33.999] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:34.000] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'common'
+[2024-05-15 17:37:34.000] [error] [Main.cpp:316]    failed, retrying in 5 seconds
+[2024-05-15 17:37:39.000] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:39.001] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'common'
+[2024-05-15 17:37:39.001] [error] [Main.cpp:316]    failed, retrying in 5 seconds
+[2024-05-15 17:37:44.001] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:44.002] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'common'
+[2024-05-15 17:37:44.002] [error] [Main.cpp:316]    failed, retrying in 5 seconds
+[2024-05-15 17:37:49.002] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:49.003] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'common'
+[2024-05-15 17:37:49.003] [error] [Main.cpp:316]    failed, retrying in 5 seconds
+[2024-05-15 17:37:54.003] [info] [Main.cpp:319] Success COMMON
+[2024-05-15 17:37:54.003] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:54.004] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'hotbackup'
+[2024-05-15 17:37:54.004] [error] [Main.cpp:343]    failed, retrying in 5 seconds
+[2024-05-15 17:37:59.005] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:37:59.006] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'hotbackup'
+[2024-05-15 17:37:59.006] [error] [Main.cpp:343]    failed, retrying in 5 seconds
+[2024-05-15 17:38:04.006] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:04.007] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'hotbackup'
+[2024-05-15 17:38:04.007] [error] [Main.cpp:343]    failed, retrying in 5 seconds
+[2024-05-15 17:38:09.008] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:09.009] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'hotbackup'
+[2024-05-15 17:38:09.009] [error] [Main.cpp:343]    failed, retrying in 5 seconds
+[2024-05-15 17:38:14.009] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:14.010] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'hotbackup'
+[2024-05-15 17:38:14.010] [error] [Main.cpp:343]    failed, retrying in 5 seconds
+[2024-05-15 17:38:19.010] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:19.011] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'hotbackup'
+[2024-05-15 17:38:19.011] [error] [Main.cpp:343]    failed, retrying in 5 seconds
+[2024-05-15 17:38:25.360] [info] [Main.cpp:146] Test Server
+[2024-05-15 17:38:25.360] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 17:38:25.360] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:25.362] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:38:25.362] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:38:30.363] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:30.363] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:38:30.363] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:38:35.363] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:35.364] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:38:35.364] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:38:40.364] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:40.365] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'player'
+[2024-05-15 17:38:40.365] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 17:38:45.365] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:45.365] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 17:38:45.365] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 17:38:45.366] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 17:38:45.366] [info] [Main.cpp:258] Connected to MySQL server (player)
+[2024-05-15 17:38:45.366] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:45.366] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:38:45.366] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 17:38:45.366] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 17:38:45.366] [info] [CAsyncSQL.cpp:47] AsyncSQL: closing mysql connection.
+[2024-05-15 17:38:45.366] [info] [CAsyncSQL.cpp:47] AsyncSQL: closing mysql connection.
+[2024-05-15 17:38:45.366] [info] [CAsyncSQL.cpp:47] AsyncSQL: closing mysql connection.
+[2024-05-15 17:38:45.367] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:38:50.367] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:38:50.367] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Unknown database 'account'
+[2024-05-15 17:38:50.367] [error] [Main.cpp:289]    failed, retrying in 5 seconds
+[2024-05-15 17:54:34.684] [info] [Main.cpp:146] Test Server
+[2024-05-15 17:54:34.684] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 17:54:34.684] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 17:54:36.787] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 17:54:36.787] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 18:15:36.885] [info] [Main.cpp:146] Test Server
+[2024-05-15 18:15:36.885] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 18:15:36.885] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:15:37.898] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 18:15:37.898] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 18:15:42.898] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:15:42.898] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 18:15:42.898] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 18:16:28.465] [info] [Main.cpp:146] Test Server
+[2024-05-15 18:16:28.465] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 18:16:28.465] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:16:30.537] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 18:16:30.537] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 18:23:13.935] [info] [Main.cpp:146] Test Server
+[2024-05-15 18:23:13.935] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 18:23:13.935] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:23:16.057] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 18:23:16.058] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 18:29:18.547] [info] [Main.cpp:146] Test Server
+[2024-05-15 18:29:18.547] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 18:29:18.547] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:29:18.549] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.549] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:29:18.549] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:29:18.550] [info] [Main.cpp:258] Connected to MySQL server (player)
+[2024-05-15 18:29:18.550] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:29:18.550] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.550] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.550] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.550] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:29:18.550] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:29:18.550] [info] [Main.cpp:292] Success ACCOUNT
+[2024-05-15 18:29:18.550] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:29:18.551] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.551] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.551] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.551] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:29:18.551] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:29:18.551] [info] [Main.cpp:319] Success COMMON
+[2024-05-15 18:29:18.551] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:29:18.552] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.552] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:29:18.552] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:29:18.552] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.552] [info] [Main.cpp:348] Success HOTBACKUP
+[2024-05-15 18:29:18.552] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.552] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.552] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:29:18.555] [error] [ClientManagerBoot.cpp:227] 테스트 파일이 없습니다. 그대로 진행합니다.
+[2024-05-15 18:29:18.581] [error] [ClientManagerBoot.cpp:405] 테스트 파일이 없습니다. 그대로 진행합니다.
+[2024-05-15 18:29:18.590] [error] [ClientManagerBoot.cpp:625] item_proto_test.txt 파일을 읽어오지 못했습니다
+[2024-05-15 18:29:18.760] [error] [ClientManagerBoot.cpp:785] item_proto_test.txt 파일을 읽어오지 못했습니다
+[2024-05-15 18:29:18.796] [info] [Main.cpp:362] ClientManager initialization OK
+[2024-05-15 18:29:18.801] [error] [CAsyncSQL.cpp:266] AsyncSQL::DirectQuery : mysql_query error: Table 'account.iptocountry' doesn't exist
+query: SELECT IP_FROM, IP_TO, COUNTRY_NAME FROM iptocountry
+[2024-05-15 18:29:18.801] [error] [BlockCountry.cpp:53]  DirectQuery failed(SELECT IP_FROM, IP_TO, COUNTRY_NAME FROM iptocountry)
+[2024-05-15 18:30:13.498] [error] [CAsyncSQL.cpp:560] AsyncSQL: query failed: Unknown MySQL server host 'mysql' (-2) (query: SELECT id,login,vnum,count,socket0,socket1,socket2,mall,why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 2005)
+[2024-05-15 18:30:13.498] [warning] [CAsyncSQL.cpp:581] AsyncSQL: retrying
+[2024-05-15 18:30:18.479] [error] [CAsyncSQL.cpp:560] AsyncSQL: query failed: Lost connection to MySQL server during query (query: SELECT id,login,vnum,count,socket0,socket1,socket2,mall,why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 2013)
+[2024-05-15 18:30:18.498] [error] [CAsyncSQL.cpp:560] AsyncSQL: query failed: Lost connection to MySQL server during query (query: SELECT id,login,vnum,count,socket0,socket1,socket2,mall,why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 2013)
+[2024-05-15 18:30:41.002] [info] [Main.cpp:146] Test Server
+[2024-05-15 18:30:41.002] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 18:30:41.002] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:30:43.098] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 18:30:43.098] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
+[2024-05-15 18:30:48.098] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:30:48.102] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.102] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:30:48.102] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:30:48.102] [info] [Main.cpp:258] Connected to MySQL server (player)
+[2024-05-15 18:30:48.103] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:30:48.103] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.103] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.103] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:30:48.103] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.103] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:30:48.103] [info] [Main.cpp:292] Success ACCOUNT
+[2024-05-15 18:30:48.103] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:30:48.103] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:30:48.104] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [Main.cpp:319] Success COMMON
+[2024-05-15 18:30:48.104] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [DBManager.cpp:110] CREATING MAIN_SQL
+[2024-05-15 18:30:48.104] [info] [DBManager.cpp:118] CREATING ASYNC_SQL
+[2024-05-15 18:30:48.104] [info] [Main.cpp:348] Success HOTBACKUP
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.104] [info] [CAsyncSQL.cpp:146] AsyncSQL: connected to mysql (reconnect true)
+[2024-05-15 18:30:48.106] [error] [ClientManagerBoot.cpp:227] 테스트 파일이 없습니다. 그대로 진행합니다.
+[2024-05-15 18:30:48.133] [error] [ClientManagerBoot.cpp:405] 테스트 파일이 없습니다. 그대로 진행합니다.
+[2024-05-15 18:30:48.142] [error] [ClientManagerBoot.cpp:625] item_proto_test.txt 파일을 읽어오지 못했습니다
+[2024-05-15 18:30:48.314] [error] [ClientManagerBoot.cpp:785] item_proto_test.txt 파일을 읽어오지 못했습니다
+[2024-05-15 18:30:48.341] [info] [Main.cpp:362] ClientManager initialization OK
+[2024-05-15 18:30:48.342] [error] [CAsyncSQL.cpp:266] AsyncSQL::DirectQuery : mysql_query error: Table 'account.iptocountry' doesn't exist
+query: SELECT IP_FROM, IP_TO, COUNTRY_NAME FROM iptocountry
+[2024-05-15 18:30:48.342] [error] [BlockCountry.cpp:53]  DirectQuery failed(SELECT IP_FROM, IP_TO, COUNTRY_NAME FROM iptocountry)
+[2024-05-15 18:55:58.694] [error] [ClientManager.cpp:3745] __GetHostInfo() ==> DirectQuery failed(SELECT mIP FROM gmhost)
+[2024-05-15 18:55:58.695] [error] [ClientManager.cpp:3693] __GetAdminInfo() ==> DirectQuery failed(SELECT mID,mAccount,mName,mContactIP,mServerIP,mAuthority FROM gmlist WHERE mServerIP='ALL' or mServerIP='127.0.0.1')
+[2024-05-15 18:55:59.387] [error] [ClientManager.cpp:3745] __GetHostInfo() ==> DirectQuery failed(SELECT mIP FROM gmhost)
+[2024-05-15 18:55:59.388] [error] [ClientManager.cpp:3693] __GetAdminInfo() ==> DirectQuery failed(SELECT mID,mAccount,mName,mContactIP,mServerIP,mAuthority FROM gmlist WHERE mServerIP='ALL' or mServerIP='127.0.0.1')
+[2024-05-15 18:56:00.287] [error] [ClientManager.cpp:3745] __GetHostInfo() ==> DirectQuery failed(SELECT mIP FROM gmhost)
+[2024-05-15 18:56:00.287] [error] [ClientManager.cpp:3693] __GetAdminInfo() ==> DirectQuery failed(SELECT mID,mAccount,mName,mContactIP,mServerIP,mAuthority FROM gmlist WHERE mServerIP='ALL' or mServerIP='127.0.0.1')
+[2024-05-15 23:51:10.996] [error] [CAsyncSQL.cpp:560] AsyncSQL: query failed: Query execution was interrupted (query: SELECT id,login,vnum,count,socket0,socket1,socket2,mall,why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1317)
+[2024-05-15 23:51:16.029] [error] [CAsyncSQL.cpp:560] AsyncSQL: query failed: Unknown MySQL server host 'mysql' (-2) (query: SELECT id,login,vnum,count,socket0,socket1,socket2,mall,why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 2005)
+[2024-05-15 23:51:16.029] [warning] [CAsyncSQL.cpp:581] AsyncSQL: retrying
+[2024-05-15 23:57:52.003] [info] [Main.cpp:146] Test Server
+[2024-05-15 23:57:52.003] [warning] [Main.cpp:196] TABLE_POSTFIX not configured use default
+[2024-05-15 23:57:52.003] [info] [DBManager.cpp:101] CREATING DIRECT_SQL
+[2024-05-15 23:57:54.068] [error] [CAsyncSQL.cpp:137] MySQL connection failed: Can't connect to MySQL server on 'mysql:3306' (111)
+[2024-05-15 23:57:54.068] [error] [Main.cpp:262] Connection to MySQL server (player) failed, retrying in 5 seconds
