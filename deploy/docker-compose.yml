@@ -1,0 +1,81 @@
+services:
+  # MySQL Database
+  mysql:
+    image: mysql:5.5
+    restart: always
+    environment:
+      # Password for root access
+      MYSQL_ROOT_PASSWORD: 'metin2'
+    ports:
+      - '3306:3306'
+    expose:
+      - 3306
+    volumes:
+      - ./mysql/:/var/lib/mysql/
+  # DBCache Server
+  db:
+    image: metin2/server:test
+    restart: always
+    expose:
+      - 15000
+    command: db
+    volumes:
+      - ./config/db.txt:/app/conf.txt
+      - ./storage/log/db:/app/log/
+  
+  # Auth server
+  auth:
+    image: metin2/server:test
+    restart: always
+    expose:
+      - 11000
+      - 12000
+    ports:
+      - '11000:11000'
+    command: game
+    volumes:
+      - ./config/auth.txt:/app/CONFIG
+      - ./storage/log/auth/:/app/log/
+
+  # Game server (CH1)
+  ch1_first:
+    image: metin2/server:test
+    restart: always
+    expose:
+      - 13000
+      - 14000
+    ports:
+      - '13000:13000'
+    command: game
+    volumes:
+      - ./config/ch1/first.txt:/app/CONFIG
+      - ./storage/log/ch1/first/:/app/log/
+      - ./storage/mark/:/app/mark/
+  
+  ch1_game1:
+    image: metin2/server:test
+    restart: always
+    expose:
+      - 13001
+      - 14001
+    ports:
+      - '13001:13001'
+    command: game
+    volumes:
+      - ./config/ch1/game1.txt:/app/CONFIG
+      - ./storage/log/ch1/game1/:/app/log/
+
+  # Game server (game99)
+  game99:
+    image: metin2/server:test
+    restart: always
+    expose:
+      - 13099
+      - 14099
+    ports:
+      - '13099:13099'
+    command: game
+    volumes:
+      - ./config/game99.txt:/app/CONFIG
+      - ./storage/log/game99/:/app/log/
+
